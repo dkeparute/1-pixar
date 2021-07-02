@@ -22,4 +22,4 @@ Design: [Pixar](https://search.muz.li/MzBkMjcyNDMw)
 ## Authors
 Student | Description
 ------- | -----------
-Dovile Keparute | Homework No.1 "Serlokas"
+Dovile Keparute | Extra project
