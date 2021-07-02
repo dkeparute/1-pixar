@@ -8,7 +8,7 @@
 
 This project isn't included in the homework list. After my homework No.2, I need to improve my knowledge and refresh the news and current information that I have learnt. Personal initiative and extra projects give improvement.
 
-Site published at 
+Site published at https://dkeparute.github.io/1-pixar/
 
 Design: [Pixar](https://search.muz.li/MzBkMjcyNDMw)
 
